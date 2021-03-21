@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C645A3592607638B0064C606 /* SwiftUI_Clean_TemplateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A3582607638B0064C606 /* SwiftUI_Clean_TemplateApp.swift */; };
+		C645A3592607638B0064C606 /* Pineapple-MusicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A3582607638B0064C606 /* Pineapple-MusicApp.swift */; };
 		C645A35B2607638B0064C606 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A35A2607638B0064C606 /* ContentView.swift */; };
 		C645A35D2607638D0064C606 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C645A35C2607638D0064C606 /* Assets.xcassets */; };
 		C645A3602607638D0064C606 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C645A35F2607638D0064C606 /* Preview Assets.xcassets */; };
-		C645A36B2607638D0064C606 /* SwiftUI_Clean_TemplateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A36A2607638D0064C606 /* SwiftUI_Clean_TemplateTests.swift */; };
-		C645A3762607638D0064C606 /* SwiftUI_Clean_TemplateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A3752607638D0064C606 /* SwiftUI_Clean_TemplateUITests.swift */; };
+		C645A36B2607638D0064C606 /* Pineapple-MusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A36A2607638D0064C606 /* Pineapple-MusicTests.swift */; };
+		C645A3762607638D0064C606 /* Pineapple-MusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A3752607638D0064C606 /* Pineapple-MusicUITests.swift */; };
 		C645A393260765650064C606 /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A392260765650064C606 /* Fonts.swift */; };
 		C645A39B260769A70064C606 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C645A39A260769A70064C606 /* Colors.xcassets */; };
 		C645A3A0260769B30064C606 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = C645A39F260769B30064C606 /* Colors.swift */; };
@@ -53,17 +53,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C645A3552607638B0064C606 /* SwiftUI-Clean-Template.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Clean-Template.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C645A3582607638B0064C606 /* SwiftUI_Clean_TemplateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Clean_TemplateApp.swift; sourceTree = "<group>"; };
+		C645A3552607638B0064C606 /* Pineapple-Music.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pineapple-Music.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C645A3582607638B0064C606 /* Pineapple-MusicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pineapple-MusicApp.swift"; sourceTree = "<group>"; };
 		C645A35A2607638B0064C606 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C645A35C2607638D0064C606 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C645A35F2607638D0064C606 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C645A3612607638D0064C606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C645A3662607638D0064C606 /* SwiftUI-Clean-TemplateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-Clean-TemplateTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C645A36A2607638D0064C606 /* SwiftUI_Clean_TemplateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Clean_TemplateTests.swift; sourceTree = "<group>"; };
+		C645A3662607638D0064C606 /* Pineapple-MusicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pineapple-MusicTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C645A36A2607638D0064C606 /* Pineapple-MusicTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pineapple-MusicTests.swift"; sourceTree = "<group>"; };
 		C645A36C2607638D0064C606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C645A3712607638D0064C606 /* SwiftUI-Clean-TemplateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-Clean-TemplateUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C645A3752607638D0064C606 /* SwiftUI_Clean_TemplateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Clean_TemplateUITests.swift; sourceTree = "<group>"; };
+		C645A3712607638D0064C606 /* Pineapple-MusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pineapple-MusicUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C645A3752607638D0064C606 /* Pineapple-MusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pineapple-MusicUITests.swift"; sourceTree = "<group>"; };
 		C645A3772607638D0064C606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C645A392260765650064C606 /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
 		C645A39A260769A70064C606 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
@@ -115,9 +115,9 @@
 		C645A34C2607638B0064C606 = {
 			isa = PBXGroup;
 			children = (
-				C645A3572607638B0064C606 /* SwiftUI-Clean-Template */,
-				C645A3692607638D0064C606 /* SwiftUI-Clean-TemplateTests */,
-				C645A3742607638D0064C606 /* SwiftUI-Clean-TemplateUITests */,
+				C645A3572607638B0064C606 /* Pineapple-Music */,
+				C645A3692607638D0064C606 /* Pineapple-MusicTests */,
+				C645A3742607638D0064C606 /* Pineapple-MusicUITests */,
 				C645A3562607638B0064C606 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -125,14 +125,14 @@
 		C645A3562607638B0064C606 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C645A3552607638B0064C606 /* SwiftUI-Clean-Template.app */,
-				C645A3662607638D0064C606 /* SwiftUI-Clean-TemplateTests.xctest */,
-				C645A3712607638D0064C606 /* SwiftUI-Clean-TemplateUITests.xctest */,
+				C645A3552607638B0064C606 /* Pineapple-Music.app */,
+				C645A3662607638D0064C606 /* Pineapple-MusicTests.xctest */,
+				C645A3712607638D0064C606 /* Pineapple-MusicUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C645A3572607638B0064C606 /* SwiftUI-Clean-Template */ = {
+		C645A3572607638B0064C606 /* Pineapple-Music */ = {
 			isa = PBXGroup;
 			children = (
 				C645A3862607640D0064C606 /* System Files */,
@@ -140,7 +140,7 @@
 				C645A3E126076D5F0064C606 /* App */,
 				C645A35E2607638D0064C606 /* Preview Content */,
 			);
-			path = "SwiftUI-Clean-Template";
+			path = "Pineapple-Music";
 			sourceTree = "<group>";
 		};
 		C645A35E2607638D0064C606 /* Preview Content */ = {
@@ -151,28 +151,28 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		C645A3692607638D0064C606 /* SwiftUI-Clean-TemplateTests */ = {
+		C645A3692607638D0064C606 /* Pineapple-MusicTests */ = {
 			isa = PBXGroup;
 			children = (
-				C645A36A2607638D0064C606 /* SwiftUI_Clean_TemplateTests.swift */,
+				C645A36A2607638D0064C606 /* Pineapple-MusicTests.swift */,
 				C645A36C2607638D0064C606 /* Info.plist */,
 			);
-			path = "SwiftUI-Clean-TemplateTests";
+			path = "Pineapple-MusicTests";
 			sourceTree = "<group>";
 		};
-		C645A3742607638D0064C606 /* SwiftUI-Clean-TemplateUITests */ = {
+		C645A3742607638D0064C606 /* Pineapple-MusicUITests */ = {
 			isa = PBXGroup;
 			children = (
-				C645A3752607638D0064C606 /* SwiftUI_Clean_TemplateUITests.swift */,
+				C645A3752607638D0064C606 /* Pineapple-MusicUITests.swift */,
 				C645A3772607638D0064C606 /* Info.plist */,
 			);
-			path = "SwiftUI-Clean-TemplateUITests";
+			path = "Pineapple-MusicUITests";
 			sourceTree = "<group>";
 		};
 		C645A3862607640D0064C606 /* System Files */ = {
 			isa = PBXGroup;
 			children = (
-				C645A3582607638B0064C606 /* SwiftUI_Clean_TemplateApp.swift */,
+				C645A3582607638B0064C606 /* Pineapple-MusicApp.swift */,
 				C645A3612607638D0064C606 /* Info.plist */,
 			);
 			path = "System Files";
@@ -345,9 +345,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C645A3542607638B0064C606 /* SwiftUI-Clean-Template */ = {
+		C645A3542607638B0064C606 /* Pineapple-Music */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C645A37A2607638D0064C606 /* Build configuration list for PBXNativeTarget "SwiftUI-Clean-Template" */;
+			buildConfigurationList = C645A37A2607638D0064C606 /* Build configuration list for PBXNativeTarget "Pineapple-Music" */;
 			buildPhases = (
 				C645A3512607638B0064C606 /* Sources */,
 				C645A3522607638B0064C606 /* Frameworks */,
@@ -357,14 +357,14 @@
 			);
 			dependencies = (
 			);
-			name = "SwiftUI-Clean-Template";
+			name = "Pineapple-Music";
 			productName = "SwiftUI-Clean-Template";
-			productReference = C645A3552607638B0064C606 /* SwiftUI-Clean-Template.app */;
+			productReference = C645A3552607638B0064C606 /* Pineapple-Music.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C645A3652607638D0064C606 /* SwiftUI-Clean-TemplateTests */ = {
+		C645A3652607638D0064C606 /* Pineapple-MusicTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C645A37D2607638D0064C606 /* Build configuration list for PBXNativeTarget "SwiftUI-Clean-TemplateTests" */;
+			buildConfigurationList = C645A37D2607638D0064C606 /* Build configuration list for PBXNativeTarget "Pineapple-MusicTests" */;
 			buildPhases = (
 				C645A3622607638D0064C606 /* Sources */,
 				C645A3632607638D0064C606 /* Frameworks */,
@@ -375,14 +375,14 @@
 			dependencies = (
 				C645A3682607638D0064C606 /* PBXTargetDependency */,
 			);
-			name = "SwiftUI-Clean-TemplateTests";
+			name = "Pineapple-MusicTests";
 			productName = "SwiftUI-Clean-TemplateTests";
-			productReference = C645A3662607638D0064C606 /* SwiftUI-Clean-TemplateTests.xctest */;
+			productReference = C645A3662607638D0064C606 /* Pineapple-MusicTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		C645A3702607638D0064C606 /* SwiftUI-Clean-TemplateUITests */ = {
+		C645A3702607638D0064C606 /* Pineapple-MusicUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C645A3802607638D0064C606 /* Build configuration list for PBXNativeTarget "SwiftUI-Clean-TemplateUITests" */;
+			buildConfigurationList = C645A3802607638D0064C606 /* Build configuration list for PBXNativeTarget "Pineapple-MusicUITests" */;
 			buildPhases = (
 				C645A36D2607638D0064C606 /* Sources */,
 				C645A36E2607638D0064C606 /* Frameworks */,
@@ -393,9 +393,9 @@
 			dependencies = (
 				C645A3732607638D0064C606 /* PBXTargetDependency */,
 			);
-			name = "SwiftUI-Clean-TemplateUITests";
+			name = "Pineapple-MusicUITests";
 			productName = "SwiftUI-Clean-TemplateUITests";
-			productReference = C645A3712607638D0064C606 /* SwiftUI-Clean-TemplateUITests.xctest */;
+			productReference = C645A3712607638D0064C606 /* Pineapple-MusicUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -420,7 +420,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C645A3502607638B0064C606 /* Build configuration list for PBXProject "SwiftUI-Clean-Template" */;
+			buildConfigurationList = C645A3502607638B0064C606 /* Build configuration list for PBXProject "Pineapple-Music" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -433,9 +433,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C645A3542607638B0064C606 /* SwiftUI-Clean-Template */,
-				C645A3652607638D0064C606 /* SwiftUI-Clean-TemplateTests */,
-				C645A3702607638D0064C606 /* SwiftUI-Clean-TemplateUITests */,
+				C645A3542607638B0064C606 /* Pineapple-Music */,
+				C645A3652607638D0064C606 /* Pineapple-MusicTests */,
+				C645A3702607638D0064C606 /* Pineapple-MusicUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -491,7 +491,7 @@
 				C645A3C326076CBD0064C606 /* CancelBag.swift in Sources */,
 				C645A3DB26076CDF0064C606 /* DIContainer.swift in Sources */,
 				C645A3A526076A6F0064C606 /* Assets.swift in Sources */,
-				C645A3592607638B0064C606 /* SwiftUI_Clean_TemplateApp.swift in Sources */,
+				C645A3592607638B0064C606 /* Pineapple-MusicApp.swift in Sources */,
 				C645A3AD26076AE90064C606 /* AssetView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -500,7 +500,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C645A36B2607638D0064C606 /* SwiftUI_Clean_TemplateTests.swift in Sources */,
+				C645A36B2607638D0064C606 /* Pineapple-MusicTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -508,7 +508,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C645A3762607638D0064C606 /* SwiftUI_Clean_TemplateUITests.swift in Sources */,
+				C645A3762607638D0064C606 /* Pineapple-MusicUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -517,12 +517,12 @@
 /* Begin PBXTargetDependency section */
 		C645A3682607638D0064C606 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C645A3542607638B0064C606 /* SwiftUI-Clean-Template */;
+			target = C645A3542607638B0064C606 /* Pineapple-Music */;
 			targetProxy = C645A3672607638D0064C606 /* PBXContainerItemProxy */;
 		};
 		C645A3732607638D0064C606 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C645A3542607638B0064C606 /* SwiftUI-Clean-Template */;
+			target = C645A3542607638B0064C606 /* Pineapple-Music */;
 			targetProxy = C645A3722607638D0064C606 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -650,16 +650,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI-Clean-Template/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Pineapple-Music/Preview Content\"";
 				DEVELOPMENT_TEAM = 3NZ2WUY2FY;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "SwiftUI-Clean-Template/System Files/Info.plist";
+				INFOPLIST_FILE = "Pineapple-Music/System Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "AppLogIndustry.SwiftUI-Clean-Template";
+				PRODUCT_BUNDLE_IDENTIFIER = "AppLogIndustry.Pineapple-Music";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -672,16 +672,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI-Clean-Template/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Pineapple-Music/Preview Content\"";
 				DEVELOPMENT_TEAM = 3NZ2WUY2FY;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "SwiftUI-Clean-Template/System Files/Info.plist";
+				INFOPLIST_FILE = "Pineapple-Music/System Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "AppLogIndustry.SwiftUI-Clean-Template";
+				PRODUCT_BUNDLE_IDENTIFIER = "AppLogIndustry.Pineapple-Music";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -706,7 +706,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUI-Clean-Template.app/SwiftUI-Clean-Template";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pineapple-Music.app/Pineapple-Music";
 			};
 			name = Debug;
 		};
@@ -728,7 +728,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUI-Clean-Template.app/SwiftUI-Clean-Template";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pineapple-Music.app/Pineapple-Music";
 			};
 			name = Release;
 		};
@@ -775,7 +775,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C645A3502607638B0064C606 /* Build configuration list for PBXProject "SwiftUI-Clean-Template" */ = {
+		C645A3502607638B0064C606 /* Build configuration list for PBXProject "Pineapple-Music" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C645A3782607638D0064C606 /* Debug */,
@@ -784,7 +784,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C645A37A2607638D0064C606 /* Build configuration list for PBXNativeTarget "SwiftUI-Clean-Template" */ = {
+		C645A37A2607638D0064C606 /* Build configuration list for PBXNativeTarget "Pineapple-Music" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C645A37B2607638D0064C606 /* Debug */,
@@ -793,7 +793,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C645A37D2607638D0064C606 /* Build configuration list for PBXNativeTarget "SwiftUI-Clean-TemplateTests" */ = {
+		C645A37D2607638D0064C606 /* Build configuration list for PBXNativeTarget "Pineapple-MusicTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C645A37E2607638D0064C606 /* Debug */,
@@ -802,7 +802,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C645A3802607638D0064C606 /* Build configuration list for PBXNativeTarget "SwiftUI-Clean-TemplateUITests" */ = {
+		C645A3802607638D0064C606 /* Build configuration list for PBXNativeTarget "Pineapple-MusicUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C645A3812607638D0064C606 /* Debug */,

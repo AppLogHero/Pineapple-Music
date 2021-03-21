@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SwiftUI_Clean_TemplateApp: App {
+struct Pineapple_MusicApp: App {
     var body: some Scene {
         WindowGroup {
             MainView()

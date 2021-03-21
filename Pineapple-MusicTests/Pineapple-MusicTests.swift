@@ -6,9 +6,9 @@
 //
 
 import XCTest
-@testable import SwiftUI_Clean_Template
+@testable import Pineapple_Music
 
-class SwiftUI_Clean_TemplateTests: XCTestCase {
+class Pineapple_MusicTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
